@@ -8,7 +8,6 @@ import java.awt.*;
 import java.text.DecimalFormat;
 import javax.swing.border.Border;
 import Dao.PhieuNhapDAO;
-import com.mysql.cj.result.Row;
 import com.toedter.calendar.JDateChooser;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
